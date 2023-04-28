@@ -1,0 +1,14 @@
+first-app/node_modules/
+server/node_modules/
+
+first-app/npm-debug.*
+first-app/*.jks
+first-app/*.p8
+first-app/*.p12
+first-app/*.key
+first-app/*.mobileprovision
+first-app/*.orig.*
+first-app/web-build/
+
+# macOS
+first-app/.DS_Store
