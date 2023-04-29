@@ -1,7 +1,4 @@
 #include <WiFi.h>
-
-#include <curl/curl.h>
-#include <json/json.h>
 #include <Arduino.h>
 #include <SPI.h>
 #include <MFRC522.h>
@@ -15,11 +12,6 @@
 #include <LiquidCrystal_I2C.h>
 #include "EasyBuzzer.h"
 #include <IRremote.h>
-
-#include <BLEDevice.h>
-#include <BLEUtils.h>
-#include <BLEServer.h>
-#include <BLE2902.h>
 
 #define SS_PIN  5   
 #define RST_PIN 27  
