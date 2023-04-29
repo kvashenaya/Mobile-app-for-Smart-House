@@ -10,8 +10,8 @@ ESP32 web server (Diploma v1 directory) + React Native mobile application client
 5. Open a web page in the browser
 
 # React Native mobile application and Apollo server:
-1. command 'npm start' for the client
-2. command 'npm run dev' for the server
+1. commands 'npm i' and 'npm start' for the client
+2. commands 'npm i' and 'npm run dev' for the server
 
 The app (client side) consists of two pages: main and informational. 
 On the main page, the user needs to be authorized using a fingerprint or password, (it is '123' in the code). 
